@@ -90,3 +90,8 @@ main {
   color: white;
   background-color: #a9a9a9;
 }
+
+.botao:hover {
+  background-color: #3a444d;
+  cursor: pointer;
+}
